@@ -7,7 +7,7 @@
 **Name**
 
 ```
-
+NURS 7703 Executive Summary Evaluation
 ```
 
 **Description**
@@ -38,7 +38,9 @@ What are the executive summary review options?
 
 Download each of these files by clicking on each link. Upload the files to the Knowledge section of your GPT.
 
-![APA 7 Citation Pages](https://github.com/cmcntsh/CreateGPT_PaperTempAPA7ReviewSections/raw/refs/heads/main/files/APA7CitationPages.pdf)
+![SBAR Exemplar](https://github.com/cmcntsh/CreateGPT_NURS7703_ExecutiveSummaryAssessment/raw/refs/heads/main/files/ExecSummarySBARExemplar.pdf)
+![Exemplar Formats](https://github.com/cmcntsh/CreateGPT_NURS7703_ExecutiveSummaryAssessment/raw/refs/heads/main/files/ExecSummaryExemplarFormats.pdf)
+![Assignment Directions](https://github.com/cmcntsh/CreateGPT_NURS7703_ExecutiveSummaryAssessment/raw/refs/heads/main/files/AssignmentDirections.pdf)
 
 **Recommended Model**
 
